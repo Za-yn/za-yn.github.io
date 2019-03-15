@@ -9,10 +9,10 @@
     "email": "yuan.z@u.nus.edu",
     "phone": "+65 96430688",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"251 Bedok South Ave 3",
+      "city":"Singapore",
+      "state":"Singapore",
+      "zip": "465479"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
@@ -34,7 +34,7 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/zayn/",
         "className":"fa fa-linkedin"
       },
       {
@@ -44,7 +44,7 @@
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"http://github.com/za-yn",
         "className":"fa fa-github"
       },
       {
@@ -58,7 +58,7 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
+        "school":"National University of Singapore",
         "degree":"Masters in Beer tasting",
         "graduated":"April 2007",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
